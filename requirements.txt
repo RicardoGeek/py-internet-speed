@@ -1,0 +1,2 @@
+matplotlib==3.3.4
+speedtest-cli==2.1.2
